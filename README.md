@@ -1,0 +1,2 @@
+# Facial-Emotions-Detector
+The main objective is the development of an interaction system based on face gestures. This system includes computer vision techniques to process video in real time from a webcam and analyze it, a collection of face gestures that could be recognized and conform with different types of events, an algorithm which transform the processed video into a specific event and an interface to communicate these events with an information server.
